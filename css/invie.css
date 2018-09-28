@@ -60,6 +60,7 @@ border: 2px solid red;
 body {
 	font-family: 'Allerta', sans-serif;
 	margin: 0;
+	width: 200%;
 	
 }
 table {
